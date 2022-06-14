@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @developer-josh
 - 👀 I’m interested in becoming a better frontend web-developer
-- 🌱 I’m currently learning typescript, styled-components and svg animations
+- 🌱 I’m currently learning gatsby, nextjs, graphql, storybook
 - 💞️ I’m looking to collaborate on frontend projects
 - 📫 How to reach me: [check out my landing page](https://www.josharsenault.dev)
 
